@@ -7,6 +7,7 @@ A comprehensive REST API for patient registration built with NestJS, following c
 - Complete CRUD operations for patient records
 - Clean/Hexagonal Architecture implementation
 - CQRS Implementation
+- Error Filters Implementation
 - JWT Authentication
 - Swagger API documentation
 - Docker containerization
